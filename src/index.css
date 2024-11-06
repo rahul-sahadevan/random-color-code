@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.btn-1,.btn-2,.btn-3{
+  border: none;
+  padding: 6px;
+  width: 120px;
+  margin: 10px;
+  border-radius: 5px;
+
+}
+
+.btn-1{
+  background-color: #4A90E2;
+}
+.btn-2{
+  background-color: #50E3C2;
+}
+.btn-3{
+  background-color: #F5A623;
+}
+.color{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 30px;
+}
